@@ -13,6 +13,9 @@
     "curl-convertor",
     "curl-convertor-to-json"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/9bany/curl-to-json.git"
